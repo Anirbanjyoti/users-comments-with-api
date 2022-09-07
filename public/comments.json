@@ -1,0 +1,52 @@
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "Maria Sarapova",
+    "time": "1 week",
+    "email": "Eliseo@gardner.biz",
+    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+    "title": "This is a Great Post. Completely different content",
+    "thumbnailUrl": "https://i.ibb.co/gTSP33d/people3.png"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "Devid Warner",
+    "time": "2 weeks",
+    "email": "Jayne_Kuhic@sydney.com",
+    "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
+    "title": "This is a super description about the topic.",
+    "thumbnailUrl": "https://i.ibb.co/m9DvKNz/people1.png"
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "name": "Maria",
+    "time": "1 month",
+    "email": "Nikita@garfield.biz",
+    "body": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page.",
+    "thumbnailUrl": "https://i.ibb.co/Q85ZT9N/people2.png"
+  },
+  {
+    "postId": 1,
+    "id": 4,
+    "name": "Jenifer Lopez",
+    "time": "1 month",
+    "email": "Lew@alysha.tv",
+    "body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati",
+    "title": "This is a Great Post",
+    "thumbnailUrl": "https://i.ibb.co/gTSP33d/people3.png"
+  },
+  {
+    "postId": 1,
+    "id": 5,
+    "name": "Maria Suthi",
+    "time": "2 months",
+    "email": "Hayden@althea.biz",
+    "body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page.",
+    "thumbnailUrl": "https://i.ibb.co/Q85ZT9N/people2.png"
+  }
+]
